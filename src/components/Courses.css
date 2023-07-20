@@ -1,0 +1,28 @@
+.container-accordian {
+  max-width: 1280px;
+  margin: 0 auto 2rem auto;
+  padding: 0 2rem;
+}
+
+.accordian-button {
+  background-color: #d3d8ec;
+}
+
+.accordion-button.collapsed {
+  font-weight: 600;
+}
+
+.search-courses {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 0.20rem solid #031F73;
+  border-radius: 0.5rem;
+}
+
+.me-2.form-control {
+  border: none;
+}
+
+.me-2.form-control:focus {
+  box-shadow: none;
+}

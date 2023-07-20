@@ -1,0 +1,26 @@
+.navbar-nav{
+  margin: auto;
+}
+
+.navbar-nav a{
+  margin-left: 3rem;
+  color: #212B58;
+  font-weight: 600;
+}
+
+.navbar-text {
+  margin: 0 1rem;
+}
+
+.navbar-search {
+  width: 20rem;
+}
+
+.sign-out {
+  margin-left: 2rem;
+}
+
+.img-logo{
+  width: 15rem;
+}
+
